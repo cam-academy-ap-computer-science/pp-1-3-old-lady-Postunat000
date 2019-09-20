@@ -1,4 +1,20 @@
-
+/***
+ * Grading Comments:
+ *  About as clean and efficient as can be.  Definitely got the 
+ *  concept about reducing duplication and the nested methods
+ *  are key to that.  Your code is aesthetically pleasing too.
+ *  Compiles/Runs: 15/15
+ *  Desired output: 6/6
+ *  Consistency:  2/2
+ *  Efficiency:  2/2 -  You could have taken this a step further
+ *   and reduced some duplication (and typing!) by writing a 
+ *   method for 
+ * System.out.print("There was an old lady who swallowed a");
+ *   followed by:
+ * System.out.println("fly");  (spider, bird,fog, etc)
+ *  but your code overall is nearly perfect. 
+ *  Good job.   25/25
+ */
 public class OldLady {
 
 	public static void main(String[] args) {
